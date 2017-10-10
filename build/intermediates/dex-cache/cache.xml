@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/a27dbd96e09411c3c9d40751ca94ca29097cac56/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="28e23e4546221bd010faea9ce2101226dc9ff35a">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36ea0fd2a385c16dc00a5be7b0c43e017100e52e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/285116f3673d9022eb34eb21e2328562b7c0ee00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_039257f5fa164e891aa463a7caa84e8a23bcfb32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.gradle/caches/modules-2/files-2.1/com.mopub/libAvid-mopub/3.6.4/2e93ce7b7046cdda7948ceab58c1ee9f1cb52bf1/libAvid-mopub-3.6.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e93ce7b7046cdda7948ceab58c1ee9f1cb52bf1">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/libAvid-mopub-3.6.4_70fe620b068dc53a3f3d942bc84adf84a5c777eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/db8f2252db13dca12776db3b285f628d3204cfa0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6ff2c4ada37694d01e7d61c7d93eb24efc67451">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce796b8104eea88255f9cb5d3786011eb606b5bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/cda5b9794f31cd51598efe3bea0878c72065458a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d6940390a114637bde6ff28dd01ec961971bfdcc">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_641912085aaa0c5fe5eeddb173f1243954dcf634/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/116a80a0cb3545060ab56cfc63a7752d199830ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_702e2cd2320d90428c0b7e54f4f62d43b381ddd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_443f08de0e617b997402510d780c13657c3359ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/547fb50900f2e09f567008cc24cdc10011e49051/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3ecb9d2aad9a03dd8d0914b715cc1fc11d942c6c">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_801d06afbd3257692ff6c7950c7918ba2812b1f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/6a83a780fc4bf4233261af69dff5b4739f672b0e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="68a25604264f56a405a3836631f4245cf846d112">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e869ab2ee09961685e4e411a039760d0961f2dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/07a970906673f1aa62e3e022a82d233a752636ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_972dd060a32e55c98b5bc93f9c5e1f781561b588/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/ec679b98491a486522d3cc150a0c80fcf8076b7b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2d1d32569d91e734344b90b370bb371ac1cf1c2">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c783bf775d5387c9869a96f820d8c80ba2745f9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/c4d66ca640834f15ccf7d005256e749b042e1a43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="749da7273861e2e032b36d774058a09392dc7004">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0af931bb724526a8c1b4d4eef1abcbeb835c1058/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/38f945b4e376bb9f5a1c1d89696c1992921db2fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f722712d9ea99f6ef2ec97ab8ffd60e2d90e9646">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_878605ec25ad8232b959f377c953d548aa122ebf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/946d2578db5107c1ecbe5d03687c9da1649466e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1cefd0e8a20eae3a00be73e03f6ec42c99a7a0d6">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ea7bfd205d5adfa0f5a3ab05c67562dfeec4e2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/35219fb3030ecdadd619b2ebc3eaa0a1f98fa2f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0294870730803653bc140263e8c24a6a63db314b">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3c4409b230ddead8232c33632e7dd411c6b9708/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/d023fb78dba5d23eae6623b394a3af0dcf624083/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0779a6b86f5241a6b08997858baad3f60455bf0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/6dc667a94a8e1f89cfdd6ce39d4432277a7eab06/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e1c21dcffa79cf7e81d9b88992d3f5dfff9fae4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/50ea6ad05b81599d0d6b050909903c5d30d62660/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eec4fe45f4922595bf29a396b91724d0354319ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/b59f09eb2fea30243f81ae130f55fffa84bca50c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c83c38b1775858ea3d151bcf5b5f9edbc086459/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/e9d93951e110a83109e54672fdbffe35034066f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_85756749b8c8d0b45e1351e690a6e7595fe5fdad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/f79546c247ac0d1ec1e3822b0e628dabcddb7a00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="78d8f4713a70ae48b9653da9128385cdf04c819b">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ed7ea96d8bb57f4f388955368f7eb45cd482913/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/29fc2e30d18be27a213acb12c1fba7ac01a34766/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="809ebb7f47d79856a82cb34ad6fb28b4e59491b9">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_021230c90bc9ee08644543cb7d5d59ca955c4a55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/8f040f339704357e28158e731134f3451c2fa7fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45831e259db609561bfbc867a920dda3ee906cc9">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1a7333c602f22d63d8e23421ebad6f9e06c036b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/51b0e223ee614687a956b6cb6a8cbec01c3aae2c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae5b9830a99b4d56d52c291469b8416924346a17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/1c8909399e1120fa08433fbc6c6bf785c00f8ec6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2f7619f2cc6a59d0c4d74d1134b0d952b8e2176/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/20ffe3297cfd39bc941c6af8917bc7608518e9cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9a5c3f8438e8114630fa69f62cb6df352e1bdbcc">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff605280ce77abf535691b5c0ded94c11acf5893/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18a677e283b5e53ea65b386b37b9f9cd81057aa8">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7d691c5cbe57515838caca78f52ea2199a0ba4ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.gradle/caches/modules-2/files-2.1/com.mopub.volley/mopub-volley/1.1.0/4357bce66ae3bb9be50679e43df122fd0a8f3394/mopub-volley-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4357bce66ae3bb9be50679e43df122fd0a8f3394">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/mopub-volley-1.1.0_f286bbb78d63c825c9f8cb590dde9d419fa63e47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_86ad0fe447564b3da52eafa147d0ab383e70ea5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_7bcf9c30fbeb2b6c280385183fd736845a9b233a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/54914f26a29fa3a3a479ddfcee1bb01b64546e48/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/vchau/Desktop/AdPlacerWithRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_957246b7c7be1ba66e2beffe1964246db7adba01/classes.dex" />
+    </item>
+
+</items>
